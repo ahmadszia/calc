@@ -4,7 +4,7 @@ Browser based emulator for Texas Instruments TI-2500 Calculator
 
 
 Usage
-- https://ahmadziadev.github.io/calc/
+- https://ahmadszia.github.io/calc/
 - Click the on-screen buttons or use the keyboard to operate.
 
 Keyboard mappings
